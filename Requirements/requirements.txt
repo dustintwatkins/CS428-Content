@@ -1,0 +1,49 @@
+Requirements
+Most important features to be implemented first
+
+1. Salesforce Data Synchronizer
+    Leader:
+      Justin B.
+
+    Brief Description:
+      We need access to a client company's sales data stored in Salesforce.
+      We need to map their data to our database and be able to query from Salesforce and
+      store the pertinent data in our database.
+
+    User Story:
+      A company will describe their sales pipeline and where they store that data
+      and we can synchronize their information to our database so that we can query it
+      from our database in a usable format.
+
+2. Authentication
+    Leader:
+      Chris B.
+
+3. Skill Recommendation Algorithm
+    Leader:
+      Dustin W.
+
+    Brief Description:
+      Algorithm that analyzes a linear sales pipeline for an individual sales
+      representative's performance over the past 90 days and recommend a skill
+      that sales representative should develop.
+
+    User Story:
+      A sales rep can view which skill he/she should train on
+      A sales manager can view the individual's on his/her team and know what
+      skill each individual should be trained on
+
+  4. What if Calculator
+      Leader:
+        Dustin W.
+
+      Brief Description:
+        Whatever skill the `Skill Recommendation Algorithm` suggests, calculate
+        the sales representative's new income IF they were to become proficient
+        (meaning performing at company/industry standard) at that skill. Return
+        the difference of their past 90 day revenue and potential income. This
+        gives a dollar incentive to training and development of the recommended skill.
+
+      User Story:
+        A sales representative can view how much a training is worth if they
+        become proficient at it.
