@@ -47,3 +47,32 @@ Most important features to be implemented first
       User Story:
         A sales representative can view how much a training is worth if they
         become proficient at it.
+        
+  5. Top Skills Algorithm
+      Leader:
+        Dustin W.
+        
+      Brief Description:
+        Algorithm that analyzes a linear sales pipeline for an individual sales
+        representative's performance over the past 90 days and shows what skills are
+        the most valuable.
+        
+      User Story:
+        A sales representative can view their top 3 skills.
+
+  6. Metrics display
+      Leader:
+        Chris B.
+        
+      Brief Description:
+        This feature visually displays the performance of sales representatives
+        on a graph in relation to a company's standard of excellence. Selecting a
+        specific point of the graph pulls up detailed information about that
+        particular sales representative's performance.
+        
+      User Story:
+        A sales representative can view a graph of any other sales representative's
+        performance in relation to company standards.
+        A sales representative can view detailed metrics about any other sales
+        representative's performance in relation to company standards.
+        
